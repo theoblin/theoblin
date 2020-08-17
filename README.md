@@ -1,5 +1,5 @@
 ### Hi there 👋
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
 
 
 - 🔭 I’m currently working on ...
