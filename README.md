@@ -1,6 +1,6 @@
 ### Hello World !
 
-- 🌱 I’m currently learning <?PHP>, var javascript and  {React}. <br>
+- 🌱 I’m currently learning PHP, javascript and  React. <br>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
