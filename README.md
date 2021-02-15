@@ -12,9 +12,9 @@
 - 📓 School career:
   
   - THP: Ruby based education / 2019
-  - AFPA: developpeur web web mobile / 2020
+  - AFPA: developpeur web web mobile / 2020-2021
   
- - 💻 Looking for a traineeship in web developpement
+ - 💻 Looking to work in web developpement
   
  
 
