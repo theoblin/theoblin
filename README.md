@@ -1,6 +1,6 @@
 ### Hello World !
 
-- 🌱 I’m currently working on sport app to track activities. <br>
+- 🌱 I’m currently working on sport app to track activities with Nest Js. <br>
 
 - 📓 School career:
   
