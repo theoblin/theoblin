@@ -1,6 +1,6 @@
 ### Hello World !
 
-- 🌱 I’m currently working on sport app to track activities with Nest Js. <br>
+- 🌱 I’m currently working on Netflix clone with NodeJs and Angular <br>
 
 - 📓 School career:
   
