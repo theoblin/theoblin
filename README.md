@@ -13,3 +13,4 @@
 
 - 📫 Reach me on Linkedin: https://www.linkedin.com/in/th%C3%A9o-blin-16720319a/
 
+![](https://komarev.com/ghpvc/?username=theoblin)
