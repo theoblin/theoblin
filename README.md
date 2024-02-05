@@ -1,8 +1,3 @@
-<h3 align="center">
-  Welcome :)
-</h3>
-
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
