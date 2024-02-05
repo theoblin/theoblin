@@ -26,7 +26,6 @@
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony%20-%23111111.svg?logo=symfony&logoColor=white"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23111111.svg?logo=angular&logoColor=red"></a>
 
 </p>
